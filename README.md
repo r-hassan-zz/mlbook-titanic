@@ -28,14 +28,9 @@ _**খসড়া ভার্সন: ১.০০ রিভিশন ৩ সময়�
   * [৩.৩. গিটহাব স্ক্রিপ্ট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/github-script.md)
   * [৩.৪. অফলাইন নোট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/offline-note.md)
 * [পর্ব ৪: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/README.md)
-
-----
-
-----
-
-
+* .......... \(চলবে\)
 
 ---
 
-প্রয়োজনীয় যোগাযোগ: https://github.com/r-hassan +৮৮০১৭১৩০৯৫৭৬৭
+প্রয়োজনীয় যোগাযোগ: [https://github.com/r-hassan](https://github.com/r-hassan) +৮৮০১৭১৩০৯৫৭৬৭
 
