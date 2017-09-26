@@ -11,6 +11,7 @@
   * [২.২. থিওরি বাদ, কেন প্রজেক্ট দিয়ে শুরু?](kaggle/project.md)
   * [২.১. ‘ক্যাগল’ কি আর দরকারই বা কেন?](kaggle/why-kaggle.md)
   * [২.৩. কেন শুরুতেই ‘আর’ প্রোগ্রামিং এনভায়রনমেন্ট?](kaggle/why-r.md)
+  * [২.৪. টাইটানিকের গল্প](project-titanic/titanic-story.md)
 * [পর্ব ৩: প্রজেক্ট টাইটানিক: বিপর্যয়ে মেশিন লার্নিং](project-titanic/README.md)
   * [৩.১. কেন প্রজেক্ট "টাইটানিক "?](project-titanic/why-titanic.md)
   * [৩.২. অফলাইন নোট](project-titanic/offline-note.md)
