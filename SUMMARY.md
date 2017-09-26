@@ -14,6 +14,6 @@
 * [পর্ব ৩: প্রজেক্ট টাইটানিক: বিপর্যয়ে মেশিন লার্নিং](project-titanic/README.md)
   * [৩.১. কেন প্রজেক্ট "টাইটানিক "?](project-titanic/why-titanic.md)
   * [৩.২. অফলাইন নোট](project-titanic/offline-note.md)
-  * [৩.৩. গিটহাব স্ক্রিপ্ট](project-titanic/.md)
+  * [৩.৩. গিটহাব স্ক্রিপ্ট](project-titanic/github-script.md)
 * পর্ব ৪: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা
 
