@@ -7,6 +7,7 @@
   * [১.২. কেন দরকার মেশিন লার্নিং?](introduction/why-needed.md)
   * [১.৩. কেনই বা দরকার কৃত্রিম বুদ্ধিমত্তা?](introduction/why-ai.md)
   * [১.৪. শিক্ষাগত যোগ্যতা: কেন একাদশ শ্রেণির শিক্ষার্থী?](introduction/pre-requisite.md)
+  * [১.৫. কিভাবে শিখবেন?](introduction/how-to-learn.md)
 * [পর্ব ২: ক্যাগল প্রতিযোগিতা \(৪ সপ্তাহ-৬ সপ্তাহ\)](kaggle/README.md)
   * [২.২. থিওরি বাদ, কেন প্রজেক্ট দিয়ে শুরু?](kaggle/project.md)
   * [২.১. ‘ক্যাগল’ কি আর দরকারই বা কেন?](kaggle/why-kaggle.md)
