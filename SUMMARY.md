@@ -12,10 +12,10 @@
   * [২.১. ‘ক্যাগল’ কি আর দরকারই বা কেন?](kaggle/why-kaggle.md)
   * [২.৩. কেন শুরুতেই ‘আর’ প্রোগ্রামিং এনভায়রনমেন্ট?](kaggle/why-r.md)
   * [২.৪. টাইটানিকের গল্প](project-titanic/titanic-story.md)
-  * [২.৫. ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](kaggle/trg-test.md)
 * [পর্ব ৩: প্রজেক্ট টাইটানিক: বিপর্যয়ে মেশিন লার্নিং](project-titanic/README.md)
   * [৩.১. কেন প্রজেক্ট "টাইটানিক "?](project-titanic/why-titanic.md)
-  * [৩.২. অফলাইন নোট](project-titanic/offline-note.md)
+  * [৩.২. ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](project-titanic/trg-test.md)
   * [৩.৩. গিটহাব স্ক্রিপ্ট](project-titanic/github-script.md)
+  * [৩.৪. অফলাইন নোট](project-titanic/offline-note.md)
 * [পর্ব ৪: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](python-titanic/README.md)
 
