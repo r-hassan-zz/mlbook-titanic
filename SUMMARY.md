@@ -22,7 +22,7 @@
   * [৪.২. ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](project-titanic/trg-test.md)
   * [৪.৩. গিটহাব স্ক্রিপ্ট](project-titanic/github-script.md)
   * [৪.৪. অফলাইন নোট](project-titanic/offline-note.md)
-* [পর্ব ৪: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](python-titanic/README.md)
-  * [৪.১. পাইথন কেন?](python-titanic/why-python.md)
-  * [৪.২. পাইথন নিয়ে খুঁটিনাটি ](python-titanic/python-setup.md)
+* [পর্ব ৫: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](python-titanic/README.md)
+  * [৫.১. পাইথন কেন?](python-titanic/why-python.md)
+  * [৫.২. পাইথন নিয়ে খুঁটিনাটি ](python-titanic/python-setup.md)
 
