@@ -33,9 +33,12 @@ _**খসড়া ভার্সন: ১.০০ রিভিশন ৩ সময়�
   * [৪.২. ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/trg-test.md)
   * [৪.৩. গিটহাব স্ক্রিপ্ট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/github-script.md)
   * [৪.৪. অফলাইন নোট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/offline-note.md)
-* [পর্ব ৪: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/README.md)
-  * [৪.১. পাইথন কেন?](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/why-python.md)
-  * [৪.২. পাইথন নিয়ে খুঁটিনাটি](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/python-setup.md)
+* [পর্ব ৫: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/README.md)
+  * [৫.১. পাইথন কেন?](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/why-python.md)
+  * [৫.২. পাইথন নিয়ে খুঁটিনাটি](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/python-setup.md)
+* [পর্ব ৬: সামনের কথা](https://github.com/r-hassan/mlbook-titanic/blob/master/new-beginning/README.md)
+  * [৬.১. শুভ হোক আপনার যাত্রা](https://github.com/r-hassan/mlbook-titanic/blob/master/new-beginning/happy-ml.md)
+  * [৬.২. কি দরকার সামনে?](https://github.com/r-hassan/mlbook-titanic/blob/master/new-beginning/future-guidance.md)
 
 .......... \(চলবে\)
 
