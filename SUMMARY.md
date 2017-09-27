@@ -25,4 +25,7 @@
 * [পর্ব ৫: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](python-titanic/README.md)
   * [৫.১. পাইথন কেন?](python-titanic/why-python.md)
   * [৫.২. পাইথন নিয়ে খুঁটিনাটি ](python-titanic/python-setup.md)
+* [পর্ব ৬: সামনের কথা](new-beginning/README.md)
+  * [৬.১. শুভ হোক আপনার যাত্রা ](new-beginning/happy-ml.md)
+  * [৬.২. কি দরকার সামনে?](new-beginning/future-guidance.md)
 
