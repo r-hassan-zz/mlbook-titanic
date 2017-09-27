@@ -31,7 +31,7 @@ _**খসড়া ভার্সন: ১.০০ রিভিশন ৩ সময়�
   * [৪.২. ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/trg-test.md)
   * [৪.৩. গিটহাব স্ক্রিপ্ট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/github-script.md)
   * [৪.৪. অফলাইন নোট](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/offline-note.md)
-* [পর্ব ৪: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/README.md)
+* [পর্ব ৫: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/README.md)
 
 .......... \(চলবে\)
 
