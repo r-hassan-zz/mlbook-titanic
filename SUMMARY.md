@@ -23,4 +23,6 @@
   * [৪.৩. গিটহাব স্ক্রিপ্ট](project-titanic/github-script.md)
   * [৪.৪. অফলাইন নোট](project-titanic/offline-note.md)
 * [পর্ব ৪: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](python-titanic/README.md)
+  * [৪.১. পাইথন কেন?](python-titanic/why-python.md)
+  * [৪.২. পাইথন নিয়ে খুঁটিনাটি ](python-titanic/python-setup.md)
 
