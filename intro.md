@@ -2,9 +2,9 @@
 
 ---
 
-A year spent in artificial intelligence is enough to make one believe in God.
-
-– Alan Perlis
+> A year spent in artificial intelligence is enough to make one believe in God.
+>
+> – Alan Perlis
 
 #### এক
 
