@@ -2,6 +2,10 @@
 
 ---
 
+> #### A breakthrough in machine learning would be worth ten Microsofts.
+>
+> #### — Bill Gates
+
 _**খসড়া ভার্সন: ১.০০ রিভিশন ৩। সময়সীমা: অক্টোবর-নভেম্বর ২০১৭ **_
 
 > প্রচুর পরিবর্তন প্রয়োজন, চ্যাপ্টার হবে ৯টা
