@@ -10,7 +10,7 @@
   * [১.৫. কিভাবে শিখবেন?](introduction/how-to-learn.md)
 * [পর্ব ২: ক্যাগল প্রতিযোগিতা \(৪ সপ্তাহ-৬ সপ্তাহ\)](kaggle/README.md)
   * [২.১. ‘ক্যাগল’ কি আর দরকারই বা কেন?](kaggle/why-kaggle.md)
-  * ২.২. কি করতে হবে ক্যাগলে?
+  * [২.২. কি করতে হবে ক্যাগলে?](kaggle/what-we-need-to-do.md)
   * [২.৩. থিওরি বাদ, কেন প্রজেক্ট দিয়ে শুরু?](kaggle/project.md)
   * [২.৪. কেন শুরুতেই ‘আর’ প্রোগ্রামিং এনভায়রনমেন্ট?](kaggle/why-r.md)
   * [২.৫. টাইটানিকের গল্প](project-titanic/titanic-story.md)
