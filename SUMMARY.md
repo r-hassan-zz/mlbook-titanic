@@ -3,6 +3,7 @@
 * [মেশিন লার্নিং: হাতে কলমে](README.md)
 * [মুখবন্ধ](intro.md)
 * [মেশিন লার্নিং হ্যাক](hack.md)
+* [ভবিষ্যত দেখার ধারণা](.md)
 * [পর্ব ১: মেশিন লার্নিং কি? \(৩০ মিনিট\)](introduction/README.md)
   * [১.১. মেশিন লার্নিং জিনিসটা কি?](introduction/what-is-ml.md)
   * [১.২. কেন দরকার মেশিন লার্নিং?](introduction/why-needed.md)
@@ -27,7 +28,5 @@
 * [পর্ব ৫: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](python-titanic/README.md)
   * [৫.১. পাইথন কেন?](python-titanic/why-python.md)
   * [৫.২. পাইথন নিয়ে খুঁটিনাটি ](python-titanic/python-setup.md)
-* [পর্ব ৬: সামনের কথা](new-beginning/README.md)
-  * [৬.১. শুভ হোক আপনার যাত্রা ](new-beginning/happy-ml.md)
-  * [৬.২. কি দরকার সামনে?](new-beginning/future-guidance.md)
+* ভবিষ্যত দেখার ধারণা
 
