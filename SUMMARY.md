@@ -3,7 +3,7 @@
 * [মেশিন লার্নিং: হাতে কলমে](README.md)
 * [মুখবন্ধ](intro.md)
 * [মেশিন লার্নিং হ্যাক](hack.md)
-* [ভবিষ্যত দেখার ধারণা](.md)
+* [ভবিষ্যত দেখার ধারণা](seeing-future.md)
 * [পর্ব ১: মেশিন লার্নিং কি? \(৩০ মিনিট\)](introduction/README.md)
   * [১.১. মেশিন লার্নিং জিনিসটা কি?](introduction/what-is-ml.md)
   * [১.২. কেন দরকার মেশিন লার্নিং?](introduction/why-needed.md)
