@@ -1,8 +1,8 @@
-১.২. কেন দরকার মেশিন লার্নিং?
+### ১.২. কেন দরকার মেশিন লার্নিং?
 
 ---
 
-> If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it. 
+> If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it.
 >
 > -— Michael Jordan, Basketball Player and Entrepreneur
 
