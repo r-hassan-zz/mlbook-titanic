@@ -32,5 +32,5 @@
   * [৬.১. আসলেই কি আছে সামনে?](whats-in-future/in-future.md)
   * [৬.২. আন-সুপারভাইজড লার্নিং ](whats-in-future/unsupervised.md)
   * [৬.৩. রি-ইনফোর্সমেন্ট লার্নিং ](whats-in-future/re-reinforcement.md)
-* [যোগাযোগের সুতা](communications.md)
+* [যোগাযোগের সুতো ](communications.md)
 
