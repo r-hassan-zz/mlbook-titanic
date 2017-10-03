@@ -17,6 +17,8 @@ _**খসড়া ভার্সন: ১.০০ রিভিশন ৩। সম�
 [মেশিন লার্নিং: হাতে কলমে](https://github.com/r-hassan/mlbook-titanic/blob/master/README.md)
 
 * [মুখবন্ধ](https://github.com/r-hassan/mlbook-titanic/blob/master/intro.md)
+* [মেশিন লার্নিং হ্যাক](https://github.com/r-hassan/mlbook-titanic/blob/master/hack.md)
+* [ভবিষ্যত দেখার ধারণা](https://github.com/r-hassan/mlbook-titanic/blob/master/seeing-future.md)
 * [পর্ব ১: মেশিন লার্নিং কি? \(৩০ মিনিট\)](https://github.com/r-hassan/mlbook-titanic/blob/master/introduction/README.md)
   * [১.১. মেশিন লার্নিং জিনিসটা কি?](https://github.com/r-hassan/mlbook-titanic/blob/master/introduction/what-is-ml.md)
   * [১.২. কেন দরকার মেশিন লার্নিং?](https://github.com/r-hassan/mlbook-titanic/blob/master/introduction/why-needed.md)
@@ -25,9 +27,10 @@ _**খসড়া ভার্সন: ১.০০ রিভিশন ৩। সম�
   * [১.৫. কিভাবে শিখবেন?](https://github.com/r-hassan/mlbook-titanic/blob/master/introduction/how-to-learn.md)
 * [পর্ব ২: ক্যাগল প্রতিযোগিতা \(৪ সপ্তাহ-৬ সপ্তাহ\)](https://github.com/r-hassan/mlbook-titanic/blob/master/kaggle/README.md)
   * [২.১. ‘ক্যাগল’ কি আর দরকারই বা কেন?](https://github.com/r-hassan/mlbook-titanic/blob/master/kaggle/why-kaggle.md)
-  * [২.২. থিওরি বাদ, কেন প্রজেক্ট দিয়ে শুরু?](https://github.com/r-hassan/mlbook-titanic/blob/master/kaggle/project.md)
-  * [২.৩. কেন শুরুতেই ‘আর’ প্রোগ্রামিং এনভায়রনমেন্ট?](https://github.com/r-hassan/mlbook-titanic/blob/master/kaggle/why-r.md)
-  * [২.৪. টাইটানিকের গল্প](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/titanic-story.md)
+  * [২.২. কি করতে হবে ক্যাগলে?](https://github.com/r-hassan/mlbook-titanic/blob/master/kaggle/what-we-need-to-do.md)
+  * [২.৩. থিওরি বাদ, কেন প্রজেক্ট দিয়ে শুরু?](https://github.com/r-hassan/mlbook-titanic/blob/master/kaggle/project.md)
+  * [২.৪. কেন শুরুতেই ‘আর’ প্রোগ্রামিং এনভায়রনমেন্ট?](https://github.com/r-hassan/mlbook-titanic/blob/master/kaggle/why-r.md)
+  * [২.৫. টাইটানিকের গল্প](https://github.com/r-hassan/mlbook-titanic/blob/master/project-titanic/titanic-story.md)
 * [পর্ব ৩: "আর" এনভায়রনমেন্ট](https://github.com/r-hassan/mlbook-titanic/blob/master/r-environment/README.md)
   * [৩.১. "আর" + "আর" ষ্টুডিও](https://github.com/r-hassan/mlbook-titanic/blob/master/r-environment/r-r-studio.md)
   * [৩.২. আর ষ্টুডিওর কিছু খুঁটিনাটি \(ইনস্টলেশন সহ\)](https://github.com/r-hassan/mlbook-titanic/blob/master/r-environment/r-studio-installation.md)
@@ -40,9 +43,7 @@ _**খসড়া ভার্সন: ১.০০ রিভিশন ৩। সম�
 * [পর্ব ৫: পাইথন দিয়ে ‘ক্যাগল’ প্রতিযোগিতা](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/README.md)
   * [৫.১. পাইথন কেন?](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/why-python.md)
   * [৫.২. পাইথন নিয়ে খুঁটিনাটি](https://github.com/r-hassan/mlbook-titanic/blob/master/python-titanic/python-setup.md)
-* [পর্ব ৬: সামনের কথা](https://github.com/r-hassan/mlbook-titanic/blob/master/new-beginning/README.md)
-  * [৬.১. শুভ হোক আপনার যাত্রা](https://github.com/r-hassan/mlbook-titanic/blob/master/new-beginning/happy-ml.md)
-  * [৬.২. কি দরকার সামনে?](https://github.com/r-hassan/mlbook-titanic/blob/master/new-beginning/future-guidance.md)
+* ভবিষ্যত দেখার ধারণা
 
 .......... \(চলবে\)
 
