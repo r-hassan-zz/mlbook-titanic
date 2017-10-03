@@ -8,7 +8,7 @@
 >
 > #### — Bill Gates
 
-### [ক্যাগল প্রতিযোগিতা: টাইটানিক](https://www.kaggle.com/c/titanic/ "টাইটানিক ")
+### [ক্যাগল প্রতিযোগিতা: টাইটানিক](https://www.kaggle.com/c/titanic/ "টাইটানিক ") - kaggle.com/c/titanic![](/assets/titanic-kaggle.JPG)
 
 _**খসড়া ভার্সন: ১.০০ রিভিশন ৩। সময়সীমা: অক্টোবর-নভেম্বর ২০১৭ **_
 
