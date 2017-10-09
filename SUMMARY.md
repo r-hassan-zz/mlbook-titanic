@@ -2,6 +2,7 @@
 
 * [মেশিন লার্নিং: হাতে কলমে](README.md)
 * [মুখবন্ধ](intro.md)
+* [পাল্টে যাবার ঘটনা](.md)
 * [মেশিন লার্নিং হ্যাক](hack.md)
 * [ভবিষ্যত দেখার ধারণা](seeing-future.md)
 * [পর্ব ১: মেশিন লার্নিং কি? \(৩০ মিনিট\)](introduction/README.md)
@@ -32,5 +33,5 @@
   * [৬.১. আসলেই কি আছে সামনে?](whats-in-future/in-future.md)
   * [৬.২. আন-সুপারভাইজড লার্নিং ](whats-in-future/unsupervised.md)
   * [৬.৩. রি-ইনফোর্সমেন্ট লার্নিং ](whats-in-future/re-reinforcement.md)
-* [যোগাযোগের সুতো ](communications.md)
+* [পাল্টে যাবার ঘটনা](.md)
 
