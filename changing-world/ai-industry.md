@@ -1,12 +1,10 @@
-
-
 ### আর্টিফিসিয়াল ইন্টেলিজেন্স - মেশিন লার্নিংএর প্রসার
 
 ---
 
-Just as eating contrary to the inclination is injurious to the health, so study without desire spoils the memory, and it retains nothing that it takes in.
-
-– Leonardo da Vinci
+> Just as eating contrary to the inclination is injurious to the health, so study without desire spoils the memory, and it retains nothing that it takes in.
+>
+> – Leonardo da Vinci
 
 কথা হয় অনেকের সাথে। এই সিরিজ লেখার পর থেকে। বিশেষ করে এই ‘আর্টিফিসিয়াল ইন্টেলিজেন্স’ নিয়ে। প্রশ্ন থাকে অনেকের। বেসিক কিছু বিষয় নিয়ে। একটা কমন প্রশ্ন নিয়ে বলি বরং। প্রশ্নটা কিছুটা এমন – ‘এআই’য়ের প্রসার বেশি কোন ‘ডোমেইনে’? বিভিন্ন জ্ঞানভিত্তিক ‘ডোমেইন’য়ের ভাগটা আসে ওই একেকটা সেক্টর থেকে। অনেকের ভাষায় – ‘আর্টিফিসিয়াল ইন্টেলিজেন্স’ থেকে লাভ পাচ্ছে কোন ইন্ডাস্ট্রি? অথবা ‘এআই’য়ের সুবিধা নিচ্ছে কোন পার্টি? এই সময়ে?
 
