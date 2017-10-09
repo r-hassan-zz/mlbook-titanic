@@ -2,9 +2,9 @@
 
 ---
 
-> A year spent in artificial intelligence is enough to make one believe in God.
+> A year spent in artificial intelligence is enough to make one believe in God.
 >
-> – Alan Perlis
+> – Alan Perlis
 
 সিডিসি’র ওয়ার্নিংটা পেয়ে ঘুরতে থাকলো মাথা। সবসময়ই ঘোরে সেটা, এবার একটু বেশি। ২০০৩ এর শুরুর ঘটনা। ফোর্ট গর্ডনের সিগন্যালস স্কুল পার করে মন দৌড়াচ্ছে দেশে আসার জন্য। তিন মাসের আর্শিয়াকে রেখে আটলান্টিক পাড়ি দেয়া যে কতো কষ্টের সেটা খুলে বলার প্রয়োজন দেখছি না এখানে। হটাত্‍ করেই যাওয়া।
 
