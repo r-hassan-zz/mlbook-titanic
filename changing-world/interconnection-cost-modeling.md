@@ -2,7 +2,7 @@
 
 ---
 
-> A point of view can be a dangerous luxury when substituted for insight and understanding. 
+> A point of view can be a dangerous luxury when substituted for insight and understanding.
 >
 > -― Marshall McLuhan, The Gutenberg Galaxy: The Making of Typographic Man
 
