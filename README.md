@@ -84,7 +84,9 @@ _**খসড়া ভার্সন: ১.০০ রিভিশন ৩। সম�
 
 ---
 
-প্রয়োজনীয় যোগাযোগ: [https://github.com/r-hassan](https://github.com/r-hassan) +৮৮০১৭১৩০৯৫৭৬৭
+প্রয়োজনীয় যোগাযোগ: [https://github.com/r-hassan](https://github.com/r-hassan) +৮৮০১৭১৩০৯৫৭৬৭ । ফেইসবুক মেসেঞ্জার
 
 লিংকডইন: [https://www.linkedin.com/in/raqueeb](https://www.linkedin.com/in/raqueeb) ফেইসবুক [https://www.facebook.com/raqueeb](https://www.facebook.com/raqueeb)
+
+ইঊটিঊব চ্যানেল https://goo.gl/aiWJso ফেইসবুক পেজ https://www.facebook.com/mltraining/
 
