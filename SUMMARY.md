@@ -3,6 +3,7 @@
 * [মেশিন লার্নিং: হাতে কলমে](README.md)
 * [প্রথম পাতা](intro.md)
 * [কাদের জন্য বইটা?](target-audience.md)
+* [কৃতজ্ঞতা](courtesy.md)
 * [পর্ব ০: পাল্টে যাবার ঘটনা](changing-world/README.md)
   * [০.১. সিডিসি’র ওয়ার্নিং](changing-world/ccd-warning.md)
   * [০.২. ইন্টারকানেকশন কস্ট মডেলিং](changing-world/interconnection-cost-modeling.md)
@@ -41,5 +42,5 @@
   * [৬.১. আসলেই কি আছে সামনে?](whats-in-future/in-future.md)
   * [৬.২. আন-সুপারভাইজড লার্নিং ](whats-in-future/unsupervised.md)
   * [৬.৩. রি-ইনফোর্সমেন্ট লার্নিং ](whats-in-future/re-reinforcement.md)
-* [যোগাযোগের সুতো ](communications.md)
+* কৃতজ্ঞতা
 
