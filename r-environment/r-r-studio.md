@@ -12,11 +12,11 @@
 
 ##### শুরুতেই, ডাউনলোড করি দুটোই।![](/assets/Slide4.PNG)
 
-##### আর-ষ্টুডিও ডেস্কটপ \(ওপেন সোর্স এডিশন\)  https://www.rstudio.com 
+##### আর-ষ্টুডিও ডেস্কটপ \(ওপেন সোর্স এডিশন\)  [https://www.rstudio.com](https://www.rstudio.com)
 
 ##### সঙ্গে 'আর'। পাওয়া যাবে একসাথে। এছাড়াও শুধু 'আর' পাওয়া যাবে [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) ঠিকানায়![](/assets/Slide5.PNG)
 
-##### 
+দুটো ইনস্টলেশন শেষ করে একটু চা খাই বরং। এটাই আমাদের সেলিব্রেশন।
 
 ##### 
 
