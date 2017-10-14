@@ -33,7 +33,7 @@
   * [৩.৩. 'আর' এর কিছু কাজ \(তিন মিনিট\)](r-environment/r-commands.md)
 * [পর্ব ৪: প্রজেক্ট টাইটানিক: বিপর্যয়ে মেশিন লার্নিং](project-titanic/README.md)
   * [৪.১. টাইটানিকের গল্প](project-titanic/titanic-story.md)
-  * [৪.২. কেন প্রজেক্ট "টাইটানিক "?](project-titanic/why-titanic.md)
+  * [৪.২. কেন প্রজেক্ট "টাইটানিক "? ডাটা কোথায়?](project-titanic/why-titanic.md)
   * [৪.৩. ‘ট্রেনিং’ আর ‘টেস্ট’ ডাটা সেট](project-titanic/trg-test.md)
   * [৪.৪. গিটহাব স্ক্রিপ্ট](project-titanic/github-script.md)
   * [৪.৫. অফলাইন নোট](project-titanic/offline-note.md)
