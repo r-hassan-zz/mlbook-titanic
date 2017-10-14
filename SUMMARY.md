@@ -30,7 +30,7 @@
 * [পর্ব ৩: "আর" এনভায়রনমেন্ট](r-environment/README.md)
   * [৩.১. "আর" + "আর" ষ্টুডিও](r-environment/r-r-studio.md)
   * [৩.২. আর ষ্টুডিওর কিছু খুঁটিনাটি](r-environment/r-studio-installation.md)
-  * [৩.৩. 'আর' এর কিছু কাজ \(তিন মিনিট\)](r-environment/r-commands.md)
+  * [৩.৩. প্রজেক্ট টাইটানিক + 'আর' ষ্টুডিও  ](r-environment/r-commands.md)
 * [পর্ব ৪: প্রজেক্ট টাইটানিক: বিপর্যয়ে মেশিন লার্নিং](project-titanic/README.md)
   * [৪.১. টাইটানিকের গল্প](project-titanic/titanic-story.md)
   * [৪.২. কেন প্রজেক্ট "টাইটানিক "? ডাটা কোথায়?](project-titanic/why-titanic.md)
